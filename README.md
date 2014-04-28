@@ -191,7 +191,7 @@ Operator | Visual Basic | Python
 --- | --- | ---
 Add | `c = a + b` | `c = a + b`
 Subtract | `c = a - b` | `c = a - b`
-Multiply | `c = a - b` | `c = a - b`
+Multiply | `c = a * b` | `c = a * b`
 Divide | `c = a / b` | `c = a / b`<br/>`c = a // b # Floor`
 Modulus division | `c = a Mod b`  | `c = a % b`
 Exponent | `c = a ^ b` |  `c = a *- b`
